@@ -20,3 +20,4 @@ excerpt: 'Øllebrød er en lækker morgenmad og en god måde at undgå madspild.
   den med et juleagtigt twist, men den kan spises hele året rundt. '
 
 ---
+{% include opskrift.html author="henrik" category ="morgenmad" opskrift="ollebrod" %}
