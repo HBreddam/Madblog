@@ -3,17 +3,23 @@ name: Øllebrød med et juletwist
 image: "/assets/images/uploads/velkommen-til-blog-header-4.jpg"
 description_short: 'Øllebrød er en lækker og nem måde at undgå madspild. Her er den
   med et juleagtigt twist, men den kan spise hele året. '
-keywords: ''
-cuisine: ''
-yield: ''
-prepTime: ''
-prepTime_iso: ''
+keywords: 'Øllebrød, morgenmad, zero waste, madspild '
+cuisine: 'Danish '
+yield: 4-6 portioner
+prepTime: 15 min
+prepTime_iso: PT15M
 riseTime: ''
 riseTime_iso: ''
-totalTime: ''
-totalTime_iso: ''
+totalTime: 15 min
+totalTime_iso: PT15M
 ingredients:
   single: []
-  left: []
+  left:
+  - part: Øllebrød
+    items:
+    - name: Gammelt rugbrød
+      amount: 500 g
+      note: Evt. fra fryseren
+      prep: Skåret i grove tern
   right: []
 directions: []
