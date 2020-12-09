@@ -52,6 +52,10 @@ ingredients:
   right:
   - part: Topping
     items:
+    - name: 'bær fx havtorn eller brombær '
+      amount: En håndfuld
+      note: ''
+      prep: ''
     - name: Flødeskum
       amount: 2 dl
       note: ''
