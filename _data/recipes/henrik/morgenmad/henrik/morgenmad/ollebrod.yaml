@@ -52,6 +52,10 @@ ingredients:
   right:
   - part: Topping
     items:
+    - name: knas, fx musli
+      amount: Et par skefulde
+      note: ''
+      prep: ''
     - name: 'bær fx havtorn eller brombær '
       amount: En håndfuld
       note: ''
