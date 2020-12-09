@@ -17,6 +17,14 @@ ingredients:
   left:
   - part: Øllebrød
     items:
+    - name: 'kardemomme '
+      amount: 1/2 tsk
+      note: ''
+      prep: ''
+    - name: Appelsin, skal og saft
+      amount: 1/2
+      note: ''
+      prep: ''
     - name: brun farin
       amount: 40-50 g
       note: 'Alt efter øllets sødme '
