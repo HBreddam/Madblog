@@ -64,4 +64,16 @@ ingredients:
       amount: 2 dl
       note: ''
       prep: ''
-directions: []
+directions:
+- part: Øllebrød
+  steps:
+  - step: 'Skær brødet i grove tern og kom det i en kasserolle. '
+    substeps: []
+  - step: 'Kom samtlige andre ingredienser i gryden og varm det op. '
+    substeps:
+    - substep: Smag til med farin, kardemomme, kanel og appelsinskal lidt af gangen,
+        da rugbrødet smager forskelligt.
+  - step: ''
+    substeps: []
+  - step: ''
+    substeps: []
