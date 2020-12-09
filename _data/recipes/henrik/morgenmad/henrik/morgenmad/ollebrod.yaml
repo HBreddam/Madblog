@@ -17,9 +17,21 @@ ingredients:
   left:
   - part: Øllebrød
     items:
+    - name: Vaniljestang
+      amount: 1/2
+      note: eller vaniljesukker
+      prep: ''
     - name: Gammelt rugbrød
       amount: 500 g
       note: Evt. fra fryseren
       prep: Skåret i grove tern
+    - name: Mørk øl
+      amount: 33 cl
+      note: Alkoholfri hvis den serveres til børn
+      prep: ''
+    - name: mælk eller vand
+      amount: 3 dl
+      note: Brug vand til babyer
+      prep: ''
   right: []
 directions: []
