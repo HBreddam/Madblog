@@ -49,5 +49,11 @@ ingredients:
       amount: 1/2
       note: eller vaniljesukker
       prep: ''
-  right: []
+  right:
+  - part: Topping
+    items:
+    - name: Flødeskum
+      amount: 2 dl
+      note: ''
+      prep: ''
 directions: []
