@@ -17,9 +17,9 @@ ingredients:
   left:
   - part: Øllebrød
     items:
-    - name: Vaniljestang
-      amount: 1/2
-      note: eller vaniljesukker
+    - name: brun farin
+      amount: 40-50 g
+      note: 'Alt efter øllets sødme '
       prep: ''
     - name: Gammelt rugbrød
       amount: 500 g
@@ -32,6 +32,10 @@ ingredients:
     - name: mælk eller vand
       amount: 3 dl
       note: Brug vand til babyer
+      prep: ''
+    - name: Vaniljestang
+      amount: 1/2
+      note: eller vaniljesukker
       prep: ''
   right: []
 directions: []
