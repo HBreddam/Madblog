@@ -17,6 +17,10 @@ ingredients:
   left:
   - part: Øllebrød
     items:
+    - name: Kanel
+      amount: 1/4 tsk
+      note: ''
+      prep: ''
     - name: 'kardemomme '
       amount: 1/2 tsk
       note: ''
