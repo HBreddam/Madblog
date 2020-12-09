@@ -73,7 +73,6 @@ directions:
     substeps:
     - substep: Smag til med farin, kardemomme, kanel og appelsinskal lidt af gangen,
         da rugbrødet smager forskelligt.
-  - step: ''
-    substeps: []
-  - step: ''
+  - step: "Når øllebrødet er kogt samme serveres det i skåle, med godt med topping
+      \U0001F601"
     substeps: []
