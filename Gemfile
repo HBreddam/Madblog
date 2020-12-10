@@ -17,6 +17,7 @@ gem "jekyll"
 #gem "jekyll-remote-theme"
 gem "minimal-mistakes-jekyll"
 gem "jemoji"
+gem "jekyll-paginate-v2"
 
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"
@@ -28,4 +29,5 @@ gem "jemoji"
 # If you have any other plugins, put them here!
 group :jekyll_plugins do
     gem "jekyll-remote-theme"
+    gem "jekyll_picture_tag"
 end
