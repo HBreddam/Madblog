@@ -16,11 +16,11 @@
 <div style="text-align: justify; vertical-align: top;">
     <center>
     {% if recipe.yield %}<div class="recipestats">  <i class="fas fa-utensils"></i> <br> Antal: <br> {{recipe.yield | markdownify | remove: '<p>' | remove: '</p>'  }}  </div>   {% endif %}
-    {% if recipe.prepTime %}<div class="recipestats">  <i class="fas fa-user-clock"></i> <br> Arbejdstid: <br> {{recipe.prepTime | markdownify | remove: '<p>' | remove: '</p>'  }} </div>{% endif %}
-    {% if recipe.cookTime %}<div class="recipestats">  <i class="fas fa-clock"></i> <br> Tilberedning: <br> {{recipe.cookTime | markdownify | remove: '<p>' | remove: '</p>'  }} </div>{% endif %}
-    {% if recipe.riseTime %}<div class="recipestats">  <i class="fas fa-clock"></i> <br> Hævetid: <br> {{recipe.riseTime | markdownify | remove: '<p>' | remove: '</p>'  }} </div>{% endif %}
-    {% if recipe.waitTime %}<div class="recipestats">  <i class="fas fa-clock"></i> <br> Hviletid: <br> {{recipe.waitTime | markdownify | remove: '<p>' | remove: '</p>'  }} </div>{% endif %}
-    {% if recipe.totalTime %}<div class="recipestats">  <i class="fas fa-clock"></i> <br> Total: <br> {{recipe.totalTime | markdownify | remove: '<p>' | remove: '</p>'  }} </div>{% endif %}
+    {% if recipe.prepTime.size > 0 %}<div class="recipestats">  <i class="fas fa-user-clock"></i> <br> Arbejdstid: <br> {{recipe.prepTime | markdownify | remove: '<p>' | remove: '</p>'  }} </div>{% endif %}
+    {% if recipe.cookTime.size > 0 %}<div class="recipestats">  <i class="fas fa-clock"></i> <br> Tilberedning: <br> {{recipe.cookTime | markdownify | remove: '<p>' | remove: '</p>'  }} </div>{% endif %}
+    {% if recipe.riseTime.size > 0 %}<div class="recipestats">  <i class="fas fa-clock"></i> <br> Hævetid: <br> {{recipe.riseTime | markdownify | remove: '<p>' | remove: '</p>'  }} </div>{% endif %}
+    {% if recipe.waitTime.size > 0 %}<div class="recipestats">  <i class="fas fa-clock"></i> <br> Hviletid: <br> {{recipe.waitTime | markdownify | remove: '<p>' | remove: '</p>'  }} </div>{% endif %}
+    {% if recipe.totalTime.size > 0 %}<div class="recipestats">  <i class="fas fa-clock"></i> <br> Total: <br> {{recipe.totalTime | markdownify | remove: '<p>' | remove: '</p>'  }} </div>{% endif %}
     </center>
 </div>
 <div id="opskrift" >

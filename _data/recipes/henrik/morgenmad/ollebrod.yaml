@@ -17,11 +17,11 @@ ingredients:
   left:
   - part: Øllebrød
     items:
-    - name: Gammelt rugbrød
+    - name: gammelt rugbrød
       amount: 500 g
       note: Evt. fra fryseren
       prep: Skåret i grove tern
-    - name: Mørk øl
+    - name: mørk øl
       amount: 33 cl
       note: Alkoholfri hvis den serveres til børn
       prep: ''
@@ -33,7 +33,7 @@ ingredients:
       amount: 40-50 g
       note: 'Alt efter øllets sødme '
       prep: ''
-    - name: Appelsin, skal og saft
+    - name: appelsin, skal og saft
       amount: 1/2
       note: ''
       prep: ''
@@ -41,29 +41,37 @@ ingredients:
       amount: 1/2 tsk
       note: ''
       prep: ''
-    - name: Kanel
+    - name: kanel
       amount: 1/4 tsk
       note: ''
       prep: ''
-    - name: Vaniljestang
+    - name: vaniljestang
       amount: 1/2
       note: eller vaniljesukker
       prep: ''
   right:
   - part: Topping
     items:
-    - name: knas, fx musli
-      amount: Et par skefulde
-      note: ''
+    - name: Knas eller musli
+      note: 'Se opskrift'
       prep: ''
-    - name: 'bær fx havtorn eller brombær '
-      amount: En håndfuld
+    - name: 'Bær fx havtorn eller brombær '
       note: ''
       prep: ''
     - name: flødeskum
       amount: 2 dl
       note: ''
       prep: ''
+  - part: Hjemmelavet knas
+    items:
+      - name: havregryn
+        amount: 4 dl  
+      - name: sukker
+        amount: 100 g
+      - name: smør
+        amount: 50 g
+      - name: hasselnødder og mandler
+        amount: 100 g
 directions:
 - part: Øllebrød
   steps:
@@ -76,3 +84,7 @@ directions:
   - step: "Når øllebrødet er kogt samme serveres det i skåle, med godt med topping
       \U0001F601"
     substeps: []
+- part: Hjemmelavet knas
+  steps:
+  - step: 'Kom alle ingredienserne på en pande og rist ved middel varme til det begynder at '
+  - step: "Fordel knasen på et bagepapir og lad det afkøle"
