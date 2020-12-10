@@ -59,7 +59,7 @@
           {% endif %}
 
           {% if f_url %}
-            <p><a href="{{ f_url }}" class="btn btn--primary">Se opskriften</a></p>
+            <p><a href="{{ f_url }}" class="btn btn--primary">Se mere</a></p>
           {% endif %}
         </div>
       </div>
