@@ -5,6 +5,9 @@ type: grid
 permalink: "/instagram/"
 author_profile: false
 gallery:
+  - url: /ollebrod-med-et-juletwist/
+    image_path: assets/images/posts/henrik/ollebrod/ollebrod-teaser.jpg
+    alt: Øllebrød med juletwist
   - url: /vandmelon-med-chilli/
     image_path: assets/images/uploads/vandmelon-med-chilli-teaser.jpg
     alt: Vandmelon med chili
