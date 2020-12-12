@@ -34,8 +34,8 @@ gallery1:
   - url: assets/images/posts/henrik/TangzhongBrioche-formetDej.jpg
     image_path: assets/images/posts/henrik/TangzhongBrioche-formetDej.jpg
     alt: "Bollerne er formede og spændt op"  
-  - url: assets/images/posts/henrik/TangzhongBrioche-efterHævning.jpg
-    image_path: assets/images/posts/henrik/TangzhongBrioche-efterHævning.jpg
+  - url: assets/images/posts/henrik/TangzhongBrioche-efterHavning.jpg
+    image_path: assets/images/posts/henrik/TangzhongBrioche-efterHavning.jpg
     alt: "Bollerne skal efterhæve under husholdningsfilm eller et klæde"
   - url: assets/images/posts/henrik/TangzhongBrioche-pensling.jpg
     image_path: assets/images/posts/henrik/TangzhongBrioche-pensling.jpg
