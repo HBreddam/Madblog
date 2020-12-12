@@ -31,13 +31,9 @@
         {% if teaser %}
           <div class="archive__item-teaser">
           <a href="{{ f_url }}" class="linked_image">
-            <img src=
-              {% if teaser contains "://" %}
-                "{{ teaser}}"
-              {% else %}
-                "{{ teaser| relative_url }}"
-              {% endif %}
-            alt="{% if alt %}{{ alt }}{% endif %}">
+          
+            {% picture {{ teaser | relative_url }} alt="{{ alt }}"%}
+             
             {%comment%}{% if image_caption %}
               <span class="archive__item-caption">{{ image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
             {% endif %}{%endcomment%}

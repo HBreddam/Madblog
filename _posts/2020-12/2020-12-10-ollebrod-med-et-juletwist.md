@@ -10,13 +10,13 @@ title: Øllebrød med et juletwist
 author: Henrik
 categories:
 - Opskrifter
-- Morgenmad
+- Morgenmad og brunch
 tags:
 - Nem mad
 - Madspild
 - Øllebrød
 - Zero waste
-permalink: "/Ollebrod-med-et-juletwist/"
+permalink: "/ollebrod-med-et-juletwist/"
 excerpt: 'Øllebrød er en lækker morgenmad og en god måde at undgå madspild. Her krydres
   den med et juleagtigt twist, men den kan spises hele året rundt. '
 gallery1:
