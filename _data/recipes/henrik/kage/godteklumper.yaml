@@ -1,55 +1,41 @@
 ---
-name: Brioche burger boller
+name: "Godteklumper - klumper fyldt med godter"
 image: assets/images/posts/henrik/godteklumper/godteklumper-header.jpg
-description_short: Briocheburgerboller med tangzhong der gør dem luftige og lækre
-keywords: "briocheboller, brioche, tangzhong"
-cuisine: French
-yield: 8 Boller
+description_short: Godteklumper har et meget sigende navn, for det er klumper fyldt med godter, nemlig store stykker, nødder og godt med smør.
+keywords: "Småkager, Chokolade og nødder, jul, julekager"
+cuisine: Danish
+yield: 24 klumper
 prepTime: 30 min
 prepTime_iso: PT30M
-riseTime: 10 timer
-riseTime_iso: 
-totalTime: 90 min
-totalTime_iso: PT90M
+totalTime: 40 min
+totalTime_iso: PT40M
 ingredients:
-  #single:  
-  left: 
-      - part:  Bolledej
+  single:  
+      - part:  Dej
         items:
-          - amount: 290 g 
-            name: hvedemel
-          - amount: 40 g 
-            name: grahamsspeltmel     
-          - amount: 7 g   
-            name: salt     
-          - amount: 35 g 
-            name: sukker     
-          - amount: 50 g 
+          - amount: 250 g 
             name: smør
-            prep: Varmet til stuetemperatur     
-          - amount: "1"
-            name: æg     
+            prep: Varmet til stuetemperatur  
           - amount: 125 g 
-            name: mælk     
-          - amount: 6 g 
-            name: gær     
-          
-  right:
-      - part: Tangzhong
-        items:
-          - amount: 20 g 
-            name: hvedemel  
-          - amount: 30 g
-            name: vand
-          - amount: 60 g 
-            name: Sødmælk
-      - part: Pensling
-        items:
-          - amount: 1
+            name: flormelis     
+          - amount: 1 god knivspids   
+            name: salt         
+          - amount: "1"
             name: æg
-          - amount: 1 knivspids
-            name: salt
+          - amount: 300 g 
+            name: hvedemel     
+          - amount: 150 g 
+            name: hakkede hasselnøder     
+          - amount: 150 g 
+            name: hakket mørk chokolade     
 directions:
   - part: 
     steps:
-      - step: "Tag smør og æg ud af køleskabet så de kan få stuetemperatur mens du laver tangzhong"
+      - step: Bland smør, flormelis, æg, mel og salt sammen.
+      - step: Hak nødder og chokolade en smule sjusket, så der er nogle dejligt store stykker og nogle små stykker.
+      - step: Bland nødder og chokolade i dejen og lad den hvile i køleskabet til den skal bruges.
+      - step: Tænd ovnen på 200 grader.
+      - step: Form runde kuler af dejen på størrelse med en valnød eller lidt størrere og læg dem med lidt mellemrum på en bageplade.
+      - step: Bag klumperne i 8-10 min til de har den ønskede afbagning. 
+
+
