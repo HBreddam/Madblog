@@ -1,11 +1,11 @@
 ---
 layout: single
 header:
-  overlay_image: "assets/images/posts/henrik/godteklumper/godteklumper-header.jpg"
-  teaser: "assets/images/posts/henrik/godteklumper/godteklumper-teaser.jpg"
+  overlay_image: assets/images/posts/henrik/godteklumper/godteklumper-header.jpg
+  teaser: assets/images/posts/henrik/godteklumper/godteklumper-teaser.jpg
   overlay_filter: 0.2
   actions: []
-title: Godteklumper - klumper fyldt med godter 
+title: Godteklumper - klumper fyldt med godter
 author: Henrik
 categories:
 - Opskrifter
@@ -16,11 +16,13 @@ tags:
 - Julekager
 - Chokolade
 permalink: "/godteklumper/"
-excerpt: 'Godteklumper har et meget sigende navn, for det er klumper fyldt med godter, nemlig store stykker, nødder og godt med smør.'
+excerpt: Godteklumper har et meget sigende navn, for det er klumper fyldt med godter,
+  nemlig store stykker chokolade, nødder og godt med smør.
 gallery1:
-  - url: assets/images/posts/henrik/godteklumper/godteklumper-teaser.jpg
-    image_path: assets/images/posts/henrik/godteklumper/godteklumper-teaser.jpg
-    alt: "Godteklumper"
+- url: assets/images/posts/henrik/godteklumper/godteklumper-teaser.jpg
+  image_path: assets/images/posts/henrik/godteklumper/godteklumper-teaser.jpg
+  alt: Godteklumper
+
 ---
 Så længe jeg kan huske, har vi lavet godteklumper til vores årlige julebagedag og i år var ingen undtagelse. Godteklumperne har altid været en af favoritterne når man skulle vælge en småkage fra dåserne. Den status skyldes nok mængde af chokolade og nødder, men også, at klumperne var så store i ens lille barnehånd, at de næsten kunne gøre det ud for et lille mellemmåltid 😛
 
