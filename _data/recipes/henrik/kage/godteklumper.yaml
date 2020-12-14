@@ -1,8 +1,9 @@
 ---
-name: "Godteklumper - klumper fyldt med godter"
+name: Godteklumper - klumper fyldt med godter
 image: assets/images/posts/henrik/godteklumper/godteklumper-header.jpg
-description_short: Godteklumper har et meget sigende navn, for det er klumper fyldt med godter, nemlig store stykker, nødder og godt med smør.
-keywords: "Småkager, Chokolade og nødder, jul, julekager"
+description_short: Godteklumper har et meget sigende navn, for det er klumper fyldt
+  med godter, nemlig store stykker chokolade, nødder og godt med smør.
+keywords: Småkager, Chokolade og nødder, jul, julekager
 cuisine: Danish
 yield: 24 klumper
 prepTime: 30 min
@@ -10,32 +11,33 @@ prepTime_iso: PT30M
 totalTime: 40 min
 totalTime_iso: PT40M
 ingredients:
-  single:  
-      - part:  Dej
-        items:
-          - amount: 250 g 
-            name: smør
-            prep: Varmet til stuetemperatur  
-          - amount: 125 g 
-            name: flormelis     
-          - amount: 1 god knivspids   
-            name: salt         
-          - amount: "1"
-            name: æg
-          - amount: 300 g 
-            name: hvedemel     
-          - amount: 150 g 
-            name: hakkede hasselnøder     
-          - amount: 150 g 
-            name: hakket mørk chokolade     
+  single:
+  - part: Dej
+    items:
+    - amount: 250 g
+      name: smør
+      prep: Varmet til stuetemperatur
+    - amount: 125 g
+      name: flormelis
+    - amount: 1 god knivspids
+      name: salt
+    - amount: "1"
+      name: æg
+    - amount: 300 g
+      name: hvedemel
+    - amount: 150 g
+      name: hakkede hasselnøder
+    - amount: 150 g
+      name: hakket mørk chokolade
 directions:
-  - part: 
-    steps:
-      - step: Bland smør, flormelis, æg, mel og salt sammen.
-      - step: Hak nødder og chokolade en smule sjusket, så der er nogle dejligt store stykker og nogle små stykker.
-      - step: Bland nødder og chokolade i dejen og lad den hvile i køleskabet til den skal bruges.
-      - step: Tænd ovnen på 200 grader.
-      - step: Form runde kuler af dejen på størrelse med en valnød eller lidt størrere og læg dem med lidt mellemrum på en bageplade.
-      - step: Bag klumperne i 8-10 min til de har den ønskede afbagning. 
-
-
+- part: 
+  steps:
+  - step: Bland smør, flormelis, æg, mel og salt sammen.
+  - step: Hak nødder og chokolade en smule sjusket, så der er nogle dejligt store
+      stykker og nogle små stykker.
+  - step: Bland nødder og chokolade i dejen og lad den hvile i køleskabet til den
+      skal bruges.
+  - step: Tænd ovnen på 200 grader.
+  - step: Form runde kuler af dejen på størrelse med en valnød eller lidt størrere
+      og læg dem med lidt mellemrum på en bageplade.
+  - step: Bag klumperne i 8-10 min til de har den ønskede afbagning.
