@@ -1,0 +1,55 @@
+---
+name: Brioche burger boller
+image: assets/images/posts/henrik/godteklumper/godteklumper-header.jpg
+description_short: Briocheburgerboller med tangzhong der gør dem luftige og lækre
+keywords: "briocheboller, brioche, tangzhong"
+cuisine: French
+yield: 8 Boller
+prepTime: 30 min
+prepTime_iso: PT30M
+riseTime: 10 timer
+riseTime_iso: 
+totalTime: 90 min
+totalTime_iso: PT90M
+ingredients:
+  #single:  
+  left: 
+      - part:  Bolledej
+        items:
+          - amount: 290 g 
+            name: hvedemel
+          - amount: 40 g 
+            name: grahamsspeltmel     
+          - amount: 7 g   
+            name: salt     
+          - amount: 35 g 
+            name: sukker     
+          - amount: 50 g 
+            name: smør
+            prep: Varmet til stuetemperatur     
+          - amount: "1"
+            name: æg     
+          - amount: 125 g 
+            name: mælk     
+          - amount: 6 g 
+            name: gær     
+          
+  right:
+      - part: Tangzhong
+        items:
+          - amount: 20 g 
+            name: hvedemel  
+          - amount: 30 g
+            name: vand
+          - amount: 60 g 
+            name: Sødmælk
+      - part: Pensling
+        items:
+          - amount: 1
+            name: æg
+          - amount: 1 knivspids
+            name: salt
+directions:
+  - part: 
+    steps:
+      - step: "Tag smør og æg ud af køleskabet så de kan få stuetemperatur mens du laver tangzhong"
