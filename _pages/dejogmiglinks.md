@@ -5,6 +5,9 @@ type: grid
 permalink: "/dejogmig/"
 author_profile: false
 gallery:
+- url: "/godteklumper/"
+  image_path: assets/images/posts/henrik/godteklumper/godteklumper-teaser.jpg
+  alt: Godteklumper
 - url: "/dutch-baby-m-bacon-gronkaal/"
   image_path: assets/images/posts/henrik/dutch-baby-m-bacon-gronkaal/dutch-baby-m-bacon-gronkaal-teaser.jpg
   alt: Dutch baby med bacon og grønkål
