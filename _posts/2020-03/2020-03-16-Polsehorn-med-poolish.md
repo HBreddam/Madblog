@@ -7,7 +7,7 @@ categories:
   - Opskrifter   
   - Surdej og brød
   - Børnemad
-  - Snacks og tilbehør
+  - Snacks og småretter
 tags: 
   - Henrik
   - Gærdej 

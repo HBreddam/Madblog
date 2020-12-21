@@ -18,6 +18,7 @@ permalink: /kategorier/
 {% include feature_row_category category="Kage og bagværk" limit=3  %}
 {% include feature_row_category category="Teknikker, tips og tricks" limit=3  %}
 {% include feature_row_category category="Surdej og brød" limit=3  %}
+{% include feature_row_category category="Snacks og småretter" limit=3  %}
 <!--{% include feature_row_category category="Foodscience" limit=3  %}-->
 
 

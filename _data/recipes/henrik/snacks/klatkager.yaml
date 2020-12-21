@@ -1,0 +1,46 @@
+---
+name: Klatkager
+image: "assets/images/posts/henrik/klatkager/Klatkager-teaser.jpg"
+description_short: 'Hvis har rester tilbage af risengrøden fra dagen før, er det oplagt at lave klatkager af resterne. Jeg vil faktisk mene at klatkager er langt bedre end risengrød og vi laver gerne lidt ekstra risengrød så der er til en god portion klatkager.'
+keywords: 'Klatkager, risengrød, zero waste, madspild,snack'
+cuisine: 'Danish '
+yield: 4-6 portioner
+prepTime: 20 min
+prepTime_iso: PT20M
+riseTime: ''
+riseTime_iso: ''
+totalTime: 20 min
+totalTime_iso: PT20M
+ingredients:
+  single: []
+  left:
+  - part: Klatkager
+    items:
+    - name: Risengrød
+      amount: 1000 g
+      note: Fra dagen før
+    - name: æg
+      amount: 4
+    - name: hvedemel
+      amount: 90 g 
+    - name: sukker
+      amount: 4 spsk
+    - name: vaniljestang
+      amount: 1/2
+      note: ''
+      prep: 'Kornene heraf'
+    - name: 'salt'
+      amount: 1 nip
+  right:
+  - part: Topping
+    items:
+    - name: Fx hindbærmarmelade eller andet sødt
+      note: ''
+      prep: ''
+directions:
+- part: Klatkager
+  steps:
+  - step: 'Skrab vaniljekornene fra vaniljestangen ud i en smule sukker og fordel dem godt. Bland derefter alle ingredienserne sammen med en elpisker med dejkrogene på. Kom evt. lidt ekstra salt i, hvis du ikke laver meget salt risengrød.'
+  - step: 'Varm en eller flere pander op til lav til middel varme. Når panderne er blevet varme fordeles en god klat smør på dem.'
+  - step: "Kom portioner på ca 10-12 cm i diameter på panden og steg til de er gyldne. Vend dem forsigtigt og gentag. Kom dem på et fad under et klæde eller i en lun ovn."
+  - step: "Server med topping som fx hindbærmarmelade eller kanelsukker"
