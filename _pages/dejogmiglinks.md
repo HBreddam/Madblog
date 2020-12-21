@@ -5,6 +5,9 @@ type: grid
 permalink: "/dejogmig/"
 author_profile: false
 gallery:
+- url: /klatkager/
+  image_path: assets/images/posts/henrik/klatkager/Klatkager-teaser.jpg
+  alt: Klatkager
 - url: /ollebrod-med-et-juletwist/
   image_path: assets/images/posts/henrik/ollebrod/ollebrod-teaser.jpg
   alt: Øllebrød med juletwist

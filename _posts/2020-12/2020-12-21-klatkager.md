@@ -19,7 +19,7 @@ tags:
 - Jul
 - Klatkager
 - Zero waste
-permalink: "/ollebrod-med-et-juletwist/"
+permalink: "/klatkager/"
 excerpt: 'Hvis i nu har rester tilbage af risengrøden fra dagen før, er det oplagt at lave klatkager af resterne. Jeg vil faktisk mene, at klatkager er langt bedre end risengrød og vi laver gerne lidt ekstra risengrød, så der er til en god portion klatkager.'
 gallery1:
   - url: assets/images/posts/henrik/klatkager/Klatkager-teaser.jpg
