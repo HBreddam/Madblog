@@ -27,7 +27,9 @@ ingredients:
       - amount: 500 g 
         name: grønne bønner
       - amount: 1 liter 
-        name: bouillon 
+        name: bouillon
+      - amount: 1 spsk
+        name: sar
 directions:
   - part: 
     steps: 
