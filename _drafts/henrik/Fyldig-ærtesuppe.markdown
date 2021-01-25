@@ -3,7 +3,8 @@ layout: single
 title:  "Fyldig ærtesuppe"
 date:   2019-11-05 13:39:33 +0100
 author: Henrik
-categories: Opskrift Kage Brød tips-og-tricks EllerAndet
+categories: 
+  - Aftensmad
 permalink: /Standard-blog-template/
 excerpt: "Længere underoverskrift"
 #Her kan man indsætte header billedet
@@ -15,19 +16,7 @@ header:
     - label: "Direkte til opskriften"
       url: "#opskrift"
 #Her kan man indsætte de billeder der skal være i galleriet. Man kan lave flere gallerier hvis man bare kalder dem noget andet
-gallery1:
-  - url: /assets/images/posts/henrik/merebroed.jpg
-    image_path: /assets/images/posts/henrik/merebroed.jpg
-    alt: "Et billede af et brød"
-  - url: /assets/images/posts/henrik/kokkenbord.jpg
-    image_path: /assets/images/posts/henrik/kokkenbord.jpg
-    alt: "Brød på køkkenbord"
-  - url: /assets/images/posts/henrik/snurre.jpg
-    image_path: /assets/images/posts/henrik/snurre.jpg
-    alt: "Fog in the trees"  
-  - url: /assets/images/posts/henrik/snurre.jpg
-    image_path: /assets/images/posts/henrik/snurre.jpg
-    alt: "Snurre i massevis"  
+
 ---
 
 Bla bla

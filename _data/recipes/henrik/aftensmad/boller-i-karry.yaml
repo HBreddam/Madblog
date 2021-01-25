@@ -1,10 +1,10 @@
 ---
-name: Boller i karry uden mælk og med masser af skjulte grøntsager
-image: ''
-description_short: ''
+name: Grøntsagsfyldt boller i karry uden mælk
+image: 'assets/images/posts/henrik/boller-i-karry/boller-i-karry-teaser.jpg'
+description_short: 'Boller i karry med masser af grøntsager der giver dejlig smag og fyldighed. Samtidigt er den uden mælk så den kan gives til de aller mindste. '
 keywords: ''
 cuisine: Danish
-yield: '9 portioner '
+yield: '8 portioner '
 prepTime: 1 time
 prepTime_iso: PT1H
 riseTime: ''
@@ -12,7 +12,61 @@ riseTime_iso: ''
 totalTime: 1 t 20 min
 totalTime_iso: PT1H20M
 ingredients:
-  single: []
-  left: []
-  right: []
-directions: []
+  left:
+    - part:  Sauce
+      items:
+        - amount: 4 spsk
+          name: smør
+          note: 65 gram
+        - amount: 4 tsk
+          name: karry
+        - amount: 2 tsk
+          name: spidskommen
+        - amount: 2 tsk
+          name: stødt koriander
+        - amount: 1 dl 
+          name: hvedemel
+        - amount: 2 ds
+          name: kokosmælk
+          note: a 400 ml
+        - amount: 2 tsk/terninger
+          name: bouillon
+        - amount: 2
+          name: squash
+        - amount: 400 gram
+          name: gulerødder
+        - amount: 2 tsk
+          name: soya
+
+  right:
+    - part: Boller
+      items:
+        - amount: 800 g 
+          name: hakket svinekød
+        - amount: 2 dl 
+          name: havregryn 
+        - amount: 1 dl 
+          name: mælk
+        - amount: 2 
+          name: æg
+        - amount: 2 tsk 
+          name: salt
+    - part: Tilbehør
+      items:
+        - name: Ris
+        - name: spidskålsalat
+        - name: æbletern
+directions:
+  - part: "Forberedelse"
+    steps:
+      - step: Bland ingredienserne til farsen sammen og rør det godt rundt med en håndmikser med dejkrogene på. Sørg for at den samler sig til en godt rørt fars.
+      - step: Riv gulerødder og squash på et rivejern.
+      - step: Sæt ris over hvis du skal have brune ris.
+      - step: Bland krydderierne sammen i en skål. Smelt smørret i en stor gryde og kom krydderiblandingen i og varm den op kort under omrøring. Kom mel i gryden og lad det samle sig og varm det igen igennem under omrøring.
+      - step: Kom nu grøntsagerne i gryden og rør godt rundt. Hvis melet sætter sig i bunden kan du komme lidt af den tykke del af kokosmælken ned.
+      - step: Når grøntsagerne har fået noget varme hældes kokosmælken gradvis på under ømrøring. Lad derefter retten simre i 15 minutter.
+      - step: Blend nu sovsen så fint som muligt med en stavblender. Kom bouillonterningerne i og blend lidt mere. Skru ned på på svag varme, jeg bruger 4 ud af 9 på mit komfur. 
+      - step: Form små kødboller på størrelse med en bordtennis bold og kom dem ned i sovsen. Lad være med at lave bollerne for store, da de nemt skal kunne koges færdige i sovsen.
+      - step: Rør ganske stille rundt et par gange under kogningen så det ikke brænder på og efter 10-15 skulle bollerne gerne have opnået den ønskede kernetemperatur på 75 grader.
+      - step: Smag tilsidst til med soya.
+      - step: Server retten med en en spidskålsalat og/eller tern af æbler og appelsin i lidt citronsaft. Drys evt. også retten med lidt revet kokos og nogle korianderblade. 

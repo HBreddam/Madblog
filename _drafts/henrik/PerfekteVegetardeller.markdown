@@ -7,26 +7,14 @@ permalink: /Hvidloegsolie/
 excerpt: "Obligatorisk i et Low-FODMAP køkken, men hvidløgsolie er også en smart måde at spare tid i mange langt de fleste opskrifter"
 #Her kan man indsætte header billedet
 header:
-  teaser: /assets/images/posts/henrik/merebroed.jpg
+  teaser: 
   overlay_image: /assets/images/posts/henrik/broed.jpg
   overlay_filter: 0.35 # same as adding an opacity of 0.5 to a black background
   actions:
     - label: "Direkte til opskriften"
       url: "/Hvidloegsolie/#opskrift"
 #Her kan man indsætte de billeder der skal være i galleriet. Man kan lave flere gallerier hvis man bare kalder dem noget andet
-gallery1:
-  - url: /assets/images/posts/henrik/merebroed.jpg
-    image_path: /assets/images/posts/henrik/merebroed.jpg
-    alt: "Et billede af et brød"
-  - url: /assets/images/posts/henrik/kokkenbord.jpg
-    image_path: /assets/images/posts/henrik/kokkenbord.jpg
-    alt: "Brød på køkkenbord"
-  - url: /assets/images/posts/henrik/snurre.jpg
-    image_path: /assets/images/posts/henrik/snurre.jpg
-    alt: "Fog in the trees"  
-  - url: /assets/images/posts/henrik/snurre.jpg
-    image_path: /assets/images/posts/henrik/snurre.jpg
-    alt: "Snurre i massevis"  
+
 ---
 
 Da
