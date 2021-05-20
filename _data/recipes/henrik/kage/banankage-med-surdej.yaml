@@ -13,9 +13,9 @@ ingredients:
   single: 
   - part:  
     items:
-      - amount: 100 g
+      - amount: 70 g
         name: grahamsspeltmel
-      - amount: 100 g 
+      - amount: 180 g 
         name: hvedemel
       - amount: 1 1/2 tsk 
         name: salt
